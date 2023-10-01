@@ -1,0 +1,46 @@
+{
+  "deuses": [
+    {
+      "id": 1,
+      "nome": "Zeus",
+    },
+    {
+      "id": 2,
+      "nome": "Poseidon",
+    },
+    {
+      "id": 3,
+      "nome": "Ares",
+    },
+    {
+      "id": 4,
+      "nome": "Atena",
+    },
+    {
+      "id": 5,
+      "nome": "Artemis",
+    }
+  ],
+  "constelacoes": [
+    {
+      "id": 1,
+      "nome": "Ursa Maior",
+    },
+    {
+      "id": 2,
+      "nome": "Ursa Menor",
+    },
+    {
+      "id": 3,
+      "nome": "Orion",
+    },
+    {
+      "id": 4,
+      "nome": "Cassiopeia",
+    },
+    {
+      "id": 5,
+      "nome": "Cao Maior",
+    }
+  ]
+}
